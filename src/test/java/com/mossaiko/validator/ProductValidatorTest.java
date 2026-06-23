@@ -10,7 +10,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class productvalidatortest {
+public class ProductValidatorTest {
 
     private productvalidator validator;
 
